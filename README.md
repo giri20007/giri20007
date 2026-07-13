@@ -2,13 +2,6 @@
 
 I enjoy creating tools that solve real-world problems.
 
-Currently Working On
-
--  Telegram Bots
--  Full Stack Web Applications
--  Cybersecurity & Machine Learning Projects
--  Python Automation
-
 ## ✨ About me
 
 * Learning.....

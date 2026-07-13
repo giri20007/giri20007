@@ -1,11 +1,13 @@
 ## 📢 My profile
 
-**I enjoy creating tools that solve real-world problems.
-Currently Working On**
-🤖 Telegram Bots
-🌐 Full Stack Web Applications
-🛡️ Cybersecurity & Machine Learning Projects
-🐍 Python Automation
+I enjoy creating tools that solve real-world problems.
+
+Currently Working On
+
+-  Telegram Bots
+-  Full Stack Web Applications
+-  Cybersecurity & Machine Learning Projects
+-  Python Automation
 
 ## ✨ About me
 
@@ -15,8 +17,8 @@ Currently Working On**
 
 ## 📫 Social
 
-Email: giridharanr375@gmail.com 
-Blog: https://github.com/giri20007/Blog/discussions
+📧 giridharanr375@gmail.com
+💬 GitHub Discussions:
 
 <!--
 **nilaoda/nilaoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

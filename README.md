@@ -11,6 +11,7 @@ I enjoy creating tools that solve real-world problems.
 ## 📫 Social
 
 *📧 giridharanr375@gmail.com
+
 *💬 GitHub Discussions:
 
 <!--

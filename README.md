@@ -1,16 +1,22 @@
 ## 📢 My profile
 
-[![nilaoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilaoda&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilaoda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+**I enjoy creating tools that solve real-world problems.
+Currently Working On**
+🤖 Telegram Bots
+🌐 Full Stack Web Applications
+🛡️ Cybersecurity & Machine Learning Projects
+🐍 Python Automation
 
 ## ✨ About me
 
+* Learning.....
 * Developer / Boy
-* C# / Java / JavaScript / Python
+* Python / Web-Devlopment / Bot-Devlopment
 
 ## 📫 Social
 
-Email: nilaoda@live.com  
-Blog: https://github.com/nilaoda/Blog/discussions
+Email: giridharanr375@gmail.com 
+Blog: https://github.com/giri20007/Blog/discussions
 
 <!--
 **nilaoda/nilaoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

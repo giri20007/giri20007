@@ -10,8 +10,8 @@ I enjoy creating tools that solve real-world problems.
 
 ## 📫 Social
 
-📧 giridharanr375@gmail.com
-💬 GitHub Discussions:
+*📧 giridharanr375@gmail.com
+*💬 GitHub Discussions:
 
 <!--
 **nilaoda/nilaoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
